@@ -1,0 +1,6 @@
+customhost = "employee.cxiwj4dnddgc.ap-south-1.rds.amazonaws.com"
+customuser = "projectdb"
+custompass = "Kasar-5305"
+customdb = "employee"
+custombucket = "contactinfo33"
+customregion = "ap-south-1"
